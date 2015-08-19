@@ -1,0 +1,2 @@
+useDynLib(tmvnsim)
+export(sim.trunc.f)

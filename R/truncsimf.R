@@ -1,5 +1,5 @@
 
-sim.trunc.f <- function(nsamp, k, lower=rep(-Inf,k), upper=rep(Inf,k), imod=rep(FALSE, k), means=rep(0, k), sigma=diag(1, k))
+tmvnsim <- function(nsamp, k, lower=rep(-Inf,k), upper=rep(Inf,k), imod=rep(FALSE, k), means=rep(0, k), sigma=diag(1, k))
 {
 	QR <- FALSE 
 	if(QR)

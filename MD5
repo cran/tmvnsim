@@ -1,7 +1,7 @@
-17383e1b750adbadc13e8d78fca625be *DESCRIPTION
-eb384ae296e7d3017710ac2ed7beb168 *NAMESPACE
-c4611bf423f4900f197da2c97b35acf9 *R/truncsimf.R
-41e14cdb24ab2643b22cc0a987061ee3 *man/sim.trunc.f.Rd
+2930339143840d203c0dd4f21cc2009f *DESCRIPTION
+9da09e11f5786e87e7fdb929e6e0b9ca *NAMESPACE
+3fb4d53ed1d822de00e8e4679dd1047a *R/truncsimf.R
+c39aa80e6bfc4db36a7f2eaca6f410bf *man/tmvnsim.Rd
 d03d8f2d1ddbe3b20d490f41dbdb798a *src/Fortran2CWrapper.c
 3996e7c16bfb96fad295ee425815cb4d *src/Makevars
 d8fc5e2eacda664009264d40eb112a0b *src/tmvnghk.f90

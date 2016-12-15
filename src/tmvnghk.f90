@@ -261,9 +261,9 @@ subroutine list_update(cur_list, cur_list_u, nmax, ncur, num, low1, high1, low2,
 
 IMPLICIT NONE
 
+integer :: ncur, ncur_u, nmax, num, i, j, i0
 double precision, dimension(nmax):: cur_list, cur_list_u
 double precision :: low1, high1, low2, high2
-integer :: ncur, ncur_u, nmax, num, i, j, i0
 
 
 if (ncur == 0) then
